@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Home
+# Home Page
 
 ![My profile picture, a zoom-in of Chunky from the DK64 box art](/images/The.png "My profile picture")
 
