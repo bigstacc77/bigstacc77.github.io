@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "welcome to the home page of my blog!"
+title: "home"
 ---
 
 lorem ipsum
